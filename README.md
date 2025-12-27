@@ -1,10 +1,5 @@
 <h1 align="center">Mohd Saif</h1>
 <h3 align="center">Full Stack Web & Mobile Application Developer</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-saif-1850&layout=compact&theme=tokyonight&langs_count=8&count_private=true&cache_seconds=1800" />
-</p>
-
 ---
 
 ## About Me
@@ -81,7 +76,7 @@ Technologies:
 
 A detailed overview of my projects, architecture decisions, and live demos:
 
-**Portfolio:** https://portfolio-two-sand-11.vercel.app/
+**Portfolio:** https://portfolio-two-sand-11.vercel.app
 
 ---
 
